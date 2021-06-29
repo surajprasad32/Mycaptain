@@ -1,4 +1,5 @@
 // Bus reservation system
+// Also check main.cpp file for code
 
 #include<bits/stdc++.h>
 #include <iostream>
